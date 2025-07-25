@@ -12,7 +12,7 @@
       --shadow-color: rgba(0, 0, 0, 0.1);
       --border-radius: 14px;
       --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      --accent-color: #ff3b30;
+      --accent-color: #ff9500;
     }
 
     * {
@@ -46,11 +46,8 @@
     }
 
     .icon svg {
-      width: 64px;
-      height: 64px;
-      fill: none;
-      stroke: var(--accent-color);
-      stroke-width: 4;
+      width: 100px;
+      height: 100px;
     }
 
     h1 {
@@ -85,13 +82,18 @@
 <body>
   <div class="card">
     <div class="icon">
-      <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="32" cy="32" r="28" stroke="currentColor" />
-        <line x1="16" y1="48" x2="48" y2="16" stroke="currentColor" />
+      <!-- 可爱猫咪 SVG -->
+      <svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+        <path d="M64 10c-8 0-16 8-18 16-4-2-12-2-14 2-2 4 0 10 4 14-8 8-10 24-4 34-4 0-8 4-8 8s4 8 8 8c0 12 10 22 22 22h12c12 0 22-10 22-22 4 0 8-4 8-8s-4-8-8-8c6-10 4-26-4-34 4-4 6-10 4-14s-10-4-14-2c-2-8-10-16-18-16z" fill="#FFD7B5"/>
+        <circle cx="48" cy="64" r="4" fill="#333"/>
+        <circle cx="80" cy="64" r="4" fill="#333"/>
+        <path d="M56 80c2 2 6 2 8 0" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M64 8c2-6 10-8 14-2" stroke="#FFB6B6" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M64 8c-2-6-10-8-14-2" stroke="#FFB6B6" stroke-width="2" fill="none" stroke-linecap="round"/>
       </svg>
     </div>
     <h1>404 - Page Not Found</h1>
-    <p>Oops! The page you are looking for doesn’t exist or has been moved.</p>
+    <p>Looks like this cat couldn't find the page either.</p>
     <button class="button" onclick="window.close()">Close Page</button>
   </div>
 </body>
