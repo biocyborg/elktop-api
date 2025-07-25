@@ -1,0 +1,31 @@
+{
+  "name": "elktop-api",
+  "version": "1.0.0",
+  "description": "Netlify API 项目 - 接收POST请求并处理参数",
+  "main": "netlify/functions/api.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "netlify",
+    "api",
+    "serverless",
+    "functions",
+    "post",
+    "webhook"
+  ],
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biocyborg/netlify.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^15.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
