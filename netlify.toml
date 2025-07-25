@@ -5,6 +5,12 @@
   functions = "netlify/functions"
   publish = "elktop"
 
+  ## 重定向配置 - 将根路径重定向到index.html
+  [[redirects]]
+    from = "/"
+    to = "/index.html"
+    status = 200
+
   ## API 重定向 - 确保API函数可以正常访问
   [[redirects]]
     from = "/api/*"
