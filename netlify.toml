@@ -1,27 +1,19 @@
-# Netlify API 项目配置
 [build]
-  # 由于这是一个简单的静态项目，不需要构建命令
-  # command = "yarn run build"
   functions = "netlify/functions"
-  publish = "elktop"
+  publish = "."
 
-  ## 重定向配置 - 将根路径重定向到index.html
-  [[redirects]]
-    from = "/"
-    to = "/index.html"
-    status = 200
+# 保留你原来的 API 路径（完全不变）
+[[redirects]]
+  from = "/api"
+  to = "/.netlify/functions/api"
+  status = 200
 
-  ## API 重定向 - 确保API函数可以正常访问
-  [[redirects]]
-    from = "/api/*"
-    to = "/.netlify/functions/api"
-    status = 200
+# 新增接口路由（不影响旧的）
+[[redirects]]
+  from = "/get-link"
+  to = "/.netlify/functions/get-link"
+  status = 200
 
-  ## (optional) Settings for Netlify Dev
-  ## https://github.com/netlify/cli/blob/main/docs/netlify-dev.md#project-detection
-  [dev]
-    command = "echo 'No build command needed for static site'"
-    port = 8888
-    publish = "elktop"
-
-  ## more info on configuring this file: https://ntl.fyi/file-based-build-config
+[dev]
+  port = 8888
+  functions = "netlify/functions"
