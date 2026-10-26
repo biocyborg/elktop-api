@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "netlify dev",
     "build": "echo 'No build step required for static site'",
-    "deploy": "netlify deploy --prod"
+    "deploy": "git push origin main"
   },
   "keywords": [
     "netlify",
