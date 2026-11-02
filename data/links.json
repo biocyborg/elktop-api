@@ -4988,11 +4988,6 @@
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.amazon.com.br&sub1=chrome%20plugin%20elktop"
   },
   {
-    "id": "vpbank.com.vn",
-    "site_url": "https://www.vpbank.com.vn/",
-    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.vpbank.com.vn%2F&sub1=chrome%20plugin%20elktop"
-  },
-  {
     "id": "shope.com.br",
     "site_url": "https://www.shopee.com.br",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.shopee.com.br&sub1=chrome%20plugin%20elktop"
@@ -5016,11 +5011,6 @@
     "id": "hdbank.com.vn",
     "site_url": "https://hdbank.com.vn/",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fhdbank.com.vn%2F&sub1=chrome%20plugin%20elktop"
-  },
-  {
-    "id": "mbs.com.vn",
-    "site_url": "https://www.mbs.com.vn/",
-    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.mbs.com.vn%2F&sub1=chrome%20plugin%20elktop"
   },
   {
     "id": "driver.greengsm.ph",
@@ -5086,6 +5076,26 @@
     "id": "discovercars.com",
     "site_url": "https://discovercars.com",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fdiscovercars.com&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "max.vib.com",
+    "site_url": "https://max.vib.com.vn/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fmax.vib.com.vn%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "max.vib.com.vn",
+    "site_url": "https://max.vib.com.vn/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fmax.vib.com.vn%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "www.blibli.com",
+    "site_url": "https://www.blibli.com",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.blibli.com&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "cheapoair.com",
+    "site_url": "https://www.cheapoair.com/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.cheapoair.com%2F&sub1=chrome%20plugin%20elktop"
   },
   {
     "id": "100000",
