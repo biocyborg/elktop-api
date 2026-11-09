@@ -5008,6 +5008,11 @@
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.traveloka.com%2F&sub1=chrome%20plugin%20elktop"
   },
   {
+    "id": "mcn.shopee.vn.part",
+    "site_url": "https://shopee.vn/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.vn%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
     "id": "hdbank.com.vn",
     "site_url": "https://hdbank.com.vn/",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fhdbank.com.vn%2F&sub1=chrome%20plugin%20elktop"
@@ -5053,11 +5058,6 @@
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.fecredit.com.vn%2F&sub1=chrome%20plugin%20elktop"
   },
   {
-    "id": "cards.vpbank.com.vn",
-    "site_url": "https://cards.vpbank.com.vn/",
-    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fcards.vpbank.com.vn%2F&sub1=chrome%20plugin%20elktop"
-  },
-  {
     "id": "sunphuquocairways.com",
     "site_url": "https://sunphuquocairways.com",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fsunphuquocairways.com&sub1=chrome%20plugin%20elktop"
@@ -5078,6 +5078,31 @@
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fdiscovercars.com&sub1=chrome%20plugin%20elktop"
   },
   {
+    "id": "mcn.shopee.sg.part",
+    "site_url": "https://shopee.sg/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.sg%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "mcn.shopee.th.part",
+    "site_url": "https://shopee.co.th/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.co.th%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "mcn.shopee.ph.part",
+    "site_url": "https://shopee.ph/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.ph%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "mcn.shopee.my.part",
+    "site_url": "https://shopee.com.my/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.com.my%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "mcn.shopee.id.part",
+    "site_url": "https://shopee.co.id/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.co.id%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
     "id": "max.vib.com",
     "site_url": "https://max.vib.com.vn/",
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fmax.vib.com.vn%2F&sub1=chrome%20plugin%20elktop"
@@ -5088,9 +5113,24 @@
     "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fmax.vib.com.vn%2F&sub1=chrome%20plugin%20elktop"
   },
   {
-    "id": "www.blibli.com",
-    "site_url": "https://www.blibli.com",
-    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.blibli.com&sub1=chrome%20plugin%20elktop"
+    "id": "mcn.shopee.id.part.ido",
+    "site_url": "https://shopee.co.id/",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fshopee.co.id%2F&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "todaytix.com",
+    "site_url": "https://www.todaytix.com",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwww.todaytix.com&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "walmart.com",
+    "site_url": "https://walmart.com",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fwalmart.com&sub1=chrome%20plugin%20elktop"
+  },
+  {
+    "id": "onetravel.com",
+    "site_url": "https://onetravel.com",
+    "goto_link": "https://goeco.mobi/?token=CAYGyqxeipjcrYROJKKiL&url=https%3A%2F%2Fonetravel.com&sub1=chrome%20plugin%20elktop"
   },
   {
     "id": "cheapoair.com",
