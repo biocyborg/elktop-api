@@ -1,4 +1,5 @@
 {
+  "packageManager": "pnpm@10.0.0",
   "name": "elktop-api",
   "version": "1.0.0",
   "description": "Netlify API 项目 - 接收POST请求并处理参数",
